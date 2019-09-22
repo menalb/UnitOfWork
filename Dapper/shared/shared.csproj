@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="dapper" Version="2.0.4" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="1.0.19249.1" />
+  </ItemGroup>
+
+</Project>
